@@ -1,4 +1,4 @@
-package com.dfamily.demo.carShop;
+package com.dfamily.carShopDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
